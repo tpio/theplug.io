@@ -1,0 +1,11 @@
+<template name="adminCreateModel">
+    <form action="" id="model-form">
+        {{#each activeSchema}}
+            <div class="form-group">
+                <label>{{data.key}}</label>
+                {{> Template.dynamic template=template data=data}}
+            </div>
+        {{/each}}
+    </form>
+    <button class="btn btn-default" id="create-model">Create</button>
+</template>

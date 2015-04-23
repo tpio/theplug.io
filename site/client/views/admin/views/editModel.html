@@ -1,0 +1,11 @@
+
+<template name="adminEditModel">
+    <form action="" id="model-form">
+        {{#each activeSchema}}
+            <div class="form-group">
+                {{> Template.dynamic template=template data=data}}
+            </div>
+        {{/each}}
+    </form>
+    <button class="btn btn-default" id="update-model">Update</button>
+</template>

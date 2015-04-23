@@ -1,0 +1,25 @@
+<template name="article">
+    <div class="main-content-container">
+        <div class="wrapper">
+            <div class="content-container">
+                {{#if article}}
+                    {{#with article}}
+                        <time>Jan 2015</time>
+                        <h1>{{title}}</h1>
+                        {{{content}}}
+                    {{/with}}
+                {{/if}}
+            </div>
+        </div>
+    </div>
+</template>
+
+<template name="article-loading">
+    <div class="main-content-container loading">
+        <div class="wrapper">
+            <div class="content-container">
+
+            </div>
+        </div>
+    </div>
+</template>

@@ -1,0 +1,20 @@
+<template name="sidebar">
+    <div class="sidebar">
+        <div class="header">
+            Reading List
+        </div>
+        <ul class="content-container">
+
+            {{#each articles}}
+            <li data-date="Jan 13th 2014">
+                <a href="{{pathFor 'article' slug=slug}}">{{title}}</a>
+            </li>
+            {{/each}}
+        </ul>
+        <ul class="sidebar-nav">
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</template>

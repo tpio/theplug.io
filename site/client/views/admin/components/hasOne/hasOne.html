@@ -1,0 +1,7 @@
+<template name="hasOne">
+    <select type="text" name="{{key}}" id="{{key}}" class="form-control">
+        {{#each child}}
+            <option value="{{cvalue}}" selected="{{selected}}">{{text}}</option>
+        {{/each}}
+    </select>
+</template>

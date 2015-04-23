@@ -1,0 +1,57 @@
+.theplug {
+  padding-top: 50px;
+  .main-content-container {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    background: $white;
+    border: $secondary-border-color solid 1px;
+    border-radius: 2px;
+    position: relative;
+    &:before {
+      content: "";
+      background: #f6f6f6;
+      height: 20px;
+      border-top-left-radius: 4px;
+      border-top-right-radius: 4px;
+      border: $secondary-border-color solid 1px;
+      position: absolute;
+      top: -20px;
+      left: 0px;
+      right: 0px;
+      margin: auto;
+      width: 95%;
+    }
+    .wrapper {
+      height: 100%;
+      overflow-y: auto;
+      .content-container {
+        max-width: 620px;
+        height: 100%;
+        padding: 45px;
+        margin: 0 auto;
+        time {
+          color: #bcc1c4;
+          margin-bottom: 5px;
+          display: block;
+          font-size: 18px;
+        }
+        h1 {
+          font-size: 30px;
+          margin-bottom: 30px;
+          line-height: 38px;
+          color: $title-black;
+          font-family: serif;
+          margin-top: 0;
+        }
+        p {
+          margin-bottom: 35px !important;
+          line-height: 26px;
+          font-size: 18px;
+          margin-top: 0;
+          color: $text-color;
+        }
+      }
+    }
+  }
+}
