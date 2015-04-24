@@ -5714,6 +5714,16 @@ button.close {
     border: #e5e5e5 solid 1px;
     border-radius: 2px;
     position: relative; }
+    .theplug .main-content-container:after {
+      content: '';
+      background: -webkit-linear-gradient(white 0%, rgba(255, 255, 255, 0) 15%, rgba(255, 255, 255, 0) 100%);
+      background: linear-gradient(white 0%, rgba(255, 255, 255, 0) 15%, rgba(255, 255, 255, 0) 100%);
+      height: 100%;
+      display: block;
+      position: absolute;
+      width: 100%;
+      top: 0px;
+      pointer-events: none; }
     .theplug .main-content-container .social-container {
       position: absolute;
       top: -63px;

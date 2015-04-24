@@ -9,6 +9,16 @@
     border: $secondary-border-color solid 1px;
     border-radius: 2px;
     position: relative;
+    &:after {
+      content: '';
+      background: linear-gradient(rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 15%, rgba(255, 255, 255, 0) 100%);
+      height: 100%;
+      display: block;
+      position: absolute;
+      width: 100%;
+      top: 0px;
+      pointer-events: none;
+    }
     .social-container {
       position: absolute;
       top: -63px;

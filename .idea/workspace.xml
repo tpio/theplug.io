@@ -28,18 +28,18 @@
       <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/client/views/site/article/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="480">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="495">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="article.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/theplug/scss/article.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="1125">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.40841585" vertical-offset="0" max-vertical-offset="1275">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -58,8 +58,18 @@
       <file leaf-file-name="sidebar.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5833335" vertical-offset="16" max-vertical-offset="555">
+            <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="555">
               <caret line="10" column="99" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/client/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
+              <caret line="1" column="102" selection-start-line="1" selection-start-column="102" selection-end-line="1" selection-end-column="102" />
               <folding />
             </state>
           </provider>
@@ -68,7 +78,7 @@
       <file leaf-file-name="sidebar.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="915">
+            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="915">
               <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding />
             </state>
@@ -78,7 +88,7 @@
       <file leaf-file-name="variables.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/theplug/variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="210">
+            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="210">
               <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
               <folding />
             </state>
@@ -98,28 +108,18 @@
       <file leaf-file-name="global.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/theplug/scss/global.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
               <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/lib/controllers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1215">
-              <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sidebar.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/theplug/scss/sidebar.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28381962" vertical-offset="688" max-vertical-offset="2010">
-              <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="2010">
+              <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -139,7 +139,6 @@
         <option value="$PROJECT_DIR$/site/client/views/admin/views/createModel.html" />
         <option value="$PROJECT_DIR$/site/lib/routes.js" />
         <option value="$PROJECT_DIR$/site/client/compatability/flowtype.js" />
-        <option value="$PROJECT_DIR$/site/client/head.html" />
         <option value="$PROJECT_DIR$/site/lib/collections/category.collection.js" />
         <option value="$PROJECT_DIR$/site/lib/collections/articles.collection.js" />
         <option value="$PROJECT_DIR$/assets/theplug/variables.scss" />
@@ -148,10 +147,11 @@
         <option value="$PROJECT_DIR$/assets/theplug/scss/global.scss" />
         <option value="$PROJECT_DIR$/site/client/views/site/article/article.js" />
         <option value="$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.js" />
-        <option value="$PROJECT_DIR$/site/client/views/site/article/article.html" />
-        <option value="$PROJECT_DIR$/assets/theplug/scss/article.scss" />
         <option value="$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.html" />
+        <option value="$PROJECT_DIR$/site/client/views/site/article/article.html" />
+        <option value="$PROJECT_DIR$/site/client/head.html" />
         <option value="$PROJECT_DIR$/assets/theplug/scss/sidebar.scss" />
+        <option value="$PROJECT_DIR$/assets/theplug/scss/article.scss" />
       </list>
     </option>
   </component>
@@ -427,7 +427,7 @@
     <property name="js.meteor.project" value="true" />
     <property name="js.meteor.library.was.enabled" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="enabled" />
-    <property name="SearchEverywhereHistoryKey" value="side&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;var&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/variables.scss&#10;articl&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/article.scss&#10;article&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/client/views/site/article/article.js&#10;sideb&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;sidebar&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;controll&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/controllers.js&#10;glo&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/global.scss&#10;sideba&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;Articl&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/article.scss&#10;cont&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/controllers.js&#10;Articles.&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/collections/articles.collection.js&#10;rout&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/routes.js&#10;home&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/client/views/site/home/home.html&#10;va&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/variables.scss" />
+    <property name="SearchEverywhereHistoryKey" value="arti&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/article.scss&#10;side&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;sid&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;articl&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/client/views/site/article/article.html&#10;var&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/variables.scss&#10;article&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/client/views/site/article/article.js&#10;sideb&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;sidebar&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;controll&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/controllers.js&#10;glo&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/global.scss&#10;sideba&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/sidebar.scss&#10;Articl&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/scss/article.scss&#10;cont&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/controllers.js&#10;Articles.&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/collections/articles.collection.js&#10;rout&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/lib/routes.js&#10;home&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/site/client/views/site/home/home.html&#10;va&#9;FILE&#9;file:///Users/patricklewis/Documents/sites/meteor/theplug/assets/theplug/variables.scss" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -449,9 +449,6 @@
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -459,6 +456,9 @@
       <arguments />
       <pass-parent-envs>true</pass-parent-envs>
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -478,15 +478,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33039647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33039647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26171243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -517,9 +517,9 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -543,6 +543,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/client/views/site/article/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="495">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theplug/scss/article.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/client/views/site/article/article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="40" selection-end-line="0" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="555">
+          <caret line="10" column="99" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/client/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
+          <caret line="1" column="102" selection-start-line="1" selection-start-column="102" selection-end-line="1" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="915">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theplug/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="210">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/lib/collections/category.collection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="720">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theplug/scss/global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theplug/scss/sidebar.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="2010">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="375">
@@ -595,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="480">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="480">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -719,15 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/client/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625" vertical-offset="0" max-vertical-offset="120">
-          <caret line="1" column="99" selection-start-line="1" selection-start-column="99" selection-end-line="1" selection-end-column="99" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -735,7 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="428">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -743,7 +811,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="165">
           <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -779,14 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/client/views/site/article/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="480">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/client/views/site/article/article.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="428">
@@ -795,50 +854,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theplug/scss/article.scss">
+    <entry file="file://$PROJECT_DIR$/site/client/views/site/article/article.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="1125">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theplug/scss/global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/theplug/variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="210">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="915">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="495">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5833335" vertical-offset="16" max-vertical-offset="555">
+        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="555">
           <caret line="10" column="99" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/client/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="120">
+          <caret line="1" column="102" selection-start-line="1" selection-start-column="102" selection-end-line="1" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theplug/scss/global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/client/views/site/sidebar/sidebar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="915">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theplug/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="210">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/theplug/scss/sidebar.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28381962" vertical-offset="688" max-vertical-offset="2010">
-          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="2010">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/theplug/scss/article.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40841585" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
           <folding />
         </state>
       </provider>
