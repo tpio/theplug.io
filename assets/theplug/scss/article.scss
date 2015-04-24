@@ -1,5 +1,6 @@
 .theplug {
-  padding-top: 50px;
+  padding-top: 67px;
+  transition: ease width .3s;
   .main-content-container {
     width: 90%;
     height: 100%;
@@ -8,6 +9,18 @@
     border: $secondary-border-color solid 1px;
     border-radius: 2px;
     position: relative;
+    .social-container {
+      position: absolute;
+      top: -63px;
+      right: 10px;
+      font-size: 25px;
+      i {
+        margin-left: 15px;
+        margin-right: 15px;
+        color: $plug-brand;
+        cursor: pointer;
+      }
+    }
     &:before {
       content: "";
       background: #f6f6f6;

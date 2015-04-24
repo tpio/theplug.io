@@ -1,3 +1,12 @@
 Template.article.rendered = function() {
-  //$('.main-content-container').flowtype();
+    this.firstNode.parentNode._uihooks = {
+        insertElement: function(node, next) {
+            $(node).velocity("transition.slideUpIn").insertBefore(next);
+        },
+        removeElement: function(node) {
+            $(node).fadeOut(function() {
+                this.remove();
+            });
+        }
+    };
 };

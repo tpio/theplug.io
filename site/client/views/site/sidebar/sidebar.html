@@ -6,15 +6,27 @@
         <ul class="content-container">
 
             {{#each articles}}
-            <li data-date="Jan 13th 2014">
-                <a href="{{pathFor 'article' slug=slug}}">{{title}}</a>
-            </li>
+                {{#if checkType "articles"}}
+                    <li data-date="April 25th 2015">
+                        <a href="{{pathFor 'article' slug=slug}}"><span><i class="{{getIcon}}"></i><span>{{title}}</span></span></a>
+                    </li>
+                {{/if}}
+                {{#if checkType "categories"}}
+                    <li data-date="687 articles" class="category">
+                        <a href="{{pathFor 'article' slug=slug}}"><span><i class="{{icon}}"></i>{{title}}</span></a>
+                    </li>
+                {{/if}}
+                {{#if checkType "bookmarks"}}
+                    <li data-date="April 25th 2015" class="bookmark">
+                        <a href="{{pathFor 'article' slug=slug}}"><span><i class="{{getIcon}}"></i>{{title}}</span></a>
+                    </li>
+                {{/if}}
             {{/each}}
         </ul>
         <ul class="sidebar-nav">
-            <li></li>
-            <li></li>
-            <li></li>
+            <li class="ion ion-document-text active" data-action="articles">Reading List</li>
+            <li class="ion ion-grid" data-action="categories">Categories</li>
+            <li class="ion ion-ios-bookmarks" data-action="bookmarks">Bookmarks</li>
         </ul>
     </div>
 </template>

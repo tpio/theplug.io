@@ -14,3 +14,4 @@ dburles:mongo-collection-instances
 twbs:bootstrap
 summernote:summernote
 chhib:selectize-bootstrap-3
+percolate:velocityjs

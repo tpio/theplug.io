@@ -65,5 +65,11 @@ Articles.allow({
     //}
 });
 
+Articles.helpers({
+    category: function() {
+        return Categories.findOne(this.category_id);
+    }
+});
+
 
 Articles.attachSchema(ArticleSchema);

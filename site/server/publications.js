@@ -1,7 +1,7 @@
 /**
  * Publishes all articles in the collection with out there content
  */
-Meteor.publish('articles', function() {
+Meteor.publish('articles', function(category_id) {
     var sub = this;
     var options = {
         sort: {created_on: -1},
@@ -9,8 +9,13 @@ Meteor.publish('articles', function() {
         //fields: {topic:1, content: 1}
     };
 
+    var find = {};
+
+    if(category_id) {
+        find.category_id = category_id;
+    }
     // creates the cursor
-    var cursor = Articles.find({}, options);
+    var cursor = Articles.find(find, options);
 
     cursor.observeChanges({
         added: function (id, doc) {

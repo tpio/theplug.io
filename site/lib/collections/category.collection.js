@@ -5,6 +5,12 @@ CategoriesSchema = new SimpleSchema({
         max: 200,
         form : "text",
         showInTable: true
+    },
+    icon: {
+        type: String,
+        label: "Icon",
+        max: 50,
+        form : "text"
     }
 });
 

@@ -5,7 +5,7 @@
         //    'rightSideBar': {to: 'rightSide'}
         //},
         waitOn: function () {
-            return Meteor.subscribe('articles') && Meteor.subscribe('categories');
+            return Meteor.subscribe('articles', Session.get('currentCategory')) && Meteor.subscribe('categories');
         },
         title: 'ThePlug',
         description: 'theplug',
