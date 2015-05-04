@@ -1,7 +1,6 @@
 Template.sidebar.helpers({
     'articles' : function() {
-
-        var type = Session.get('action-type');
+        var type = Session.get('action-type') || 'articles';
         var data = Meteor.Collection.get(type).find({}).fetch();
         Session.set('articles', data);
         return Session.get('articles');
@@ -33,6 +32,12 @@ Template.sidebar.events({
         $('.sidebar-nav li').removeClass('active');
         $('.sidebar-nav li:eq(0)').addClass('active');
         Session.set('action-type', "articles");
+    }
+});
+
+Template.menuicon.events({
+    'click i' : function() {
+        $('.theplug').toggleClass('menu-open');
     }
 });
 

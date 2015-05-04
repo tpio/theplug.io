@@ -1,6 +1,8 @@
 <template name="article">
     {{#with article}}
     <div class="main-content-container">
+
+        {{> menuicon}}
         <div class="social-container">
             <i class="ion ion-ios-upload-outline"></i>
             <i class="ion ion-ios-bookmarks-outline"></i>
@@ -10,8 +12,10 @@
             <div class="content-container">
                 <time>Jan 2015</time>
                 <h1>{{title}}</h1>
+                <p class="author">by Patrick Lewis</p>
                 {{{content}}}
             </div>
+            {{>disqus}}
         </div>
     </div>
     {{/with}}

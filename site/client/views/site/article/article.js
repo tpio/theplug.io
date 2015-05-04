@@ -10,3 +10,13 @@ Template.article.rendered = function() {
         }
     };
 };
+
+
+Template.article.events({
+   'click img' : function(event) {
+       Strip.show({
+           url: event.currentTarget.src,
+           caption: event.currentTarget.alt
+       });
+   }
+});

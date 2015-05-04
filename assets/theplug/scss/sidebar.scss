@@ -2,20 +2,20 @@
   &.menu-open {
     padding-left: 320px;
     .sidebar {
-      transform: translateX(0);
+      transform: translateX(0) translateZ(0);
     }
   }
   .sidebar {
     width: 320px;
     border-right: solid 1px $primary-border-color;
-    background: $white;
+    background: #fff;
     height: 100%;
     position: absolute;
     top: 0;
     left: 0;
     overflow: hidden;
-    transform: translateX(-100%);
-    transition: all ease .3s;
+    transform: translateX(-100%) translateZ(0);
+    transition: all ease-in-out .3s;
     .header {
       height: 50px;
       background: $plug-brand;
@@ -24,6 +24,17 @@
       color: #fff;
       font-weight: 500;
       font-size: 18px;
+      position: relative;
+      i {
+        position: absolute;
+        right: 15px;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        height: 30px;
+        font-size: 30px;
+        cursor: pointer;
+      }
     }
     ul.content-container {
       height: calc(100% - 75px);
@@ -60,6 +71,7 @@
             overflow-y: hidden;
             text-overflow: ellipsis;
             overflow-x: visible;
+            font-family: Quattrocento, serif;
           }
         }
         i {
@@ -115,7 +127,7 @@
         font-size: 12px;
         padding-top: 5px;
         color: $gray-brand;
-        transition: ease all .3s;
+        transition: ease-in-out all .3s;
         &.active {
           color: $plug-brand;
         }
