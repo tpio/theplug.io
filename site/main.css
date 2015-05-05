@@ -5829,15 +5829,15 @@ button.close {
         -webkit-perspective: 1000; }
         .theplug .main-content-container .wrapper .content-container img {
           max-width: 100%;
-          -webkit-filter: grayscale(100%);
-          filter: grayscale(0);
+          -webkit-filter: grayscale(1);
+                  filter: grayscale(1);
           -webkit-transition: all ease-in-out .7s;
                   transition: all ease-in-out .7s;
           cursor: pointer;
           margin-bottom: 35px; }
           .theplug .main-content-container .wrapper .content-container img:hover {
-            -webkit-filter: grayscale(0%);
-            filter: grayscale(1); }
+            -webkit-filter: grayscale(0);
+                    filter: grayscale(0); }
         .theplug .main-content-container .wrapper .content-container:after {
           content: "";
           background: url(http://subtlepatterns.com/patterns/concrete_seamless.png);
