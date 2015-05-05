@@ -109,11 +109,13 @@
         img {
           max-width: 100%;
           -webkit-filter: grayscale(100%);
+          filter: grayscale(0);
           transition: all ease-in-out .7s;
           cursor: pointer;
           margin-bottom: 35px;
           &:hover {
             -webkit-filter: grayscale(0%);
+            filter: grayscale(1);
           }
         }
         &:after {
