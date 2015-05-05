@@ -1,4 +1,5 @@
 config.codekit
+.idea/*
 site/.idea/*
 assets/theplug/.sass-cache/*
 assets/theplug/scss/.sass-cache/*
